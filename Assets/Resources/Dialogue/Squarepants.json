@@ -1,0 +1,36 @@
+{
+    "Speakers": [
+        {
+            "Name": "Spongebob",
+            "Phrases": [
+                {
+                    "Id": 1,
+                    "Text": "I live in a pineapple under the sea!",
+                    "Next": 2
+                },
+                {
+                    "Id": 2,
+                    "Text": "Absorbent and yellow and pourous is me."
+                },
+                {
+                    "Id": 3,
+                    "Text": "Don't make me say it."
+                }
+            ]
+        },
+        {
+            "Name": "Mr. Krabs",
+            "Phrases": [
+                {
+                    "Id": 1,
+                    "Text": "I like money!",
+                    "Next": 2
+                },
+                {
+                    "Id": 2,
+                    "Text": "You'll never get me secret formula."
+                }
+            ]
+        }
+    ]
+}
